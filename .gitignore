@@ -1,0 +1,1 @@
+"node_modules/target/*.log *.class *.jar *.war .DS_Store .env .idea/ .vscode/" 
